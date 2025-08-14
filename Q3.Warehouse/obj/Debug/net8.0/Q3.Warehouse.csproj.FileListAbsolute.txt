@@ -1,0 +1,15 @@
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment3-11173490\Q3.Warehouse\bin\Debug\net8.0\Q3.Warehouse.exe
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment3-11173490\Q3.Warehouse\bin\Debug\net8.0\Q3.Warehouse.deps.json
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment3-11173490\Q3.Warehouse\bin\Debug\net8.0\Q3.Warehouse.runtimeconfig.json
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment3-11173490\Q3.Warehouse\bin\Debug\net8.0\Q3.Warehouse.dll
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment3-11173490\Q3.Warehouse\bin\Debug\net8.0\Q3.Warehouse.pdb
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment3-11173490\Q3.Warehouse\obj\Debug\net8.0\Q3.Warehouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment3-11173490\Q3.Warehouse\obj\Debug\net8.0\Q3.Warehouse.AssemblyInfoInputs.cache
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment3-11173490\Q3.Warehouse\obj\Debug\net8.0\Q3.Warehouse.AssemblyInfo.cs
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment3-11173490\Q3.Warehouse\obj\Debug\net8.0\Q3.Warehouse.csproj.CoreCompileInputs.cache
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment3-11173490\Q3.Warehouse\obj\Debug\net8.0\Q3.Warehouse.sourcelink.json
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment3-11173490\Q3.Warehouse\obj\Debug\net8.0\Q3.Warehouse.dll
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment3-11173490\Q3.Warehouse\obj\Debug\net8.0\refint\Q3.Warehouse.dll
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment3-11173490\Q3.Warehouse\obj\Debug\net8.0\Q3.Warehouse.pdb
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment3-11173490\Q3.Warehouse\obj\Debug\net8.0\Q3.Warehouse.genruntimeconfig.cache
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment3-11173490\Q3.Warehouse\obj\Debug\net8.0\ref\Q3.Warehouse.dll
