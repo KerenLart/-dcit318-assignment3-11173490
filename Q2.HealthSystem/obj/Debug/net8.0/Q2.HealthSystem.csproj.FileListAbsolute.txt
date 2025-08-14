@@ -1,0 +1,15 @@
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment3-11173490\Q2.HealthSystem\bin\Debug\net8.0\Q2.HealthSystem.exe
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment3-11173490\Q2.HealthSystem\bin\Debug\net8.0\Q2.HealthSystem.deps.json
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment3-11173490\Q2.HealthSystem\bin\Debug\net8.0\Q2.HealthSystem.runtimeconfig.json
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment3-11173490\Q2.HealthSystem\bin\Debug\net8.0\Q2.HealthSystem.dll
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment3-11173490\Q2.HealthSystem\bin\Debug\net8.0\Q2.HealthSystem.pdb
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment3-11173490\Q2.HealthSystem\obj\Debug\net8.0\Q2.HealthSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment3-11173490\Q2.HealthSystem\obj\Debug\net8.0\Q2.HealthSystem.AssemblyInfoInputs.cache
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment3-11173490\Q2.HealthSystem\obj\Debug\net8.0\Q2.HealthSystem.AssemblyInfo.cs
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment3-11173490\Q2.HealthSystem\obj\Debug\net8.0\Q2.HealthSystem.csproj.CoreCompileInputs.cache
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment3-11173490\Q2.HealthSystem\obj\Debug\net8.0\Q2.HealthSystem.sourcelink.json
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment3-11173490\Q2.HealthSystem\obj\Debug\net8.0\Q2.HealthSystem.dll
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment3-11173490\Q2.HealthSystem\obj\Debug\net8.0\refint\Q2.HealthSystem.dll
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment3-11173490\Q2.HealthSystem\obj\Debug\net8.0\Q2.HealthSystem.pdb
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment3-11173490\Q2.HealthSystem\obj\Debug\net8.0\Q2.HealthSystem.genruntimeconfig.cache
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment3-11173490\Q2.HealthSystem\obj\Debug\net8.0\ref\Q2.HealthSystem.dll
