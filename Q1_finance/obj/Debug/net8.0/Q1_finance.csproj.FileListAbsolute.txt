@@ -1,0 +1,14 @@
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment3-11173490\Q1_finance\bin\Debug\net8.0\Q1_finance.exe
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment3-11173490\Q1_finance\bin\Debug\net8.0\Q1_finance.deps.json
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment3-11173490\Q1_finance\bin\Debug\net8.0\Q1_finance.runtimeconfig.json
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment3-11173490\Q1_finance\bin\Debug\net8.0\Q1_finance.dll
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment3-11173490\Q1_finance\bin\Debug\net8.0\Q1_finance.pdb
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment3-11173490\Q1_finance\obj\Debug\net8.0\Q1_finance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment3-11173490\Q1_finance\obj\Debug\net8.0\Q1_finance.AssemblyInfoInputs.cache
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment3-11173490\Q1_finance\obj\Debug\net8.0\Q1_finance.AssemblyInfo.cs
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment3-11173490\Q1_finance\obj\Debug\net8.0\Q1_finance.csproj.CoreCompileInputs.cache
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment3-11173490\Q1_finance\obj\Debug\net8.0\Q1_finance.dll
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment3-11173490\Q1_finance\obj\Debug\net8.0\refint\Q1_finance.dll
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment3-11173490\Q1_finance\obj\Debug\net8.0\Q1_finance.pdb
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment3-11173490\Q1_finance\obj\Debug\net8.0\Q1_finance.genruntimeconfig.cache
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment3-11173490\Q1_finance\obj\Debug\net8.0\ref\Q1_finance.dll
